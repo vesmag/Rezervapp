@@ -16,6 +16,6 @@ This application was built by a team of three members: I was in charge of buildi
 
 Rezervapp lets all users to check the calendar and the room availability for each date. Logged in users can enter their reservations. The admin approves them and deletes them if necessary.
 
-Application (might) be found [here](http://web.studenti.math.pmf.unizg.hr/~amkarlo/).
+Application is in Croatian and (might) be found [here](http://web.studenti.math.pmf.unizg.hr/~amkarlo/).
 
 *September 2015*
