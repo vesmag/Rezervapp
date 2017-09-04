@@ -1,5 +1,5 @@
 # Rezervapp
-####Aplikacija za rezervaciju prostorija na fakultetu napravljena kao projekt za kolegij Računarski praktikum 2
+#### Aplikacija za rezervaciju prostorija na fakultetu napravljena kao projekt za kolegij Računarski praktikum 2
 
 Aplikacija je rađena u timu od tri osobe u PHP-u, Javascriptu i MySQL-u. Moja uloga je bila izrada baze te povezivanje baze i aplikacije.
 
@@ -10,7 +10,7 @@ Aplikacija se (možda) može pronaći [ovdje](http://web.studenti.math.pmf.unizg
 *Rujan 2015.*
 
 -------------------------------------------
-####Room reservation app
+#### Room reservation app
 
 This application was built by a team of three members: I was in charge of building database and connecting it to the application.
 
